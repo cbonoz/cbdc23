@@ -8,7 +8,13 @@
 SwiftWage
 ---
 
-"SwiftWage" is a web-based app built on the Ripple CBDC network, designed to offer earned wage access for employees and streamline payment processing for employers. 
+"SwiftWage" is a web-based app built on the Ripple CBDC network, designed to offer advance earned wage access for employees and streamlined payment processing for employers. 
+
+Pitch deck: 
+
+Landing page: https://swiftwage.carrd.co/
+
+<!-- Video:  -->
 
 
 ## Inspiration
