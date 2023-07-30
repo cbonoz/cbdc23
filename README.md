@@ -1,9 +1,11 @@
+<br/>
 <p align='center'>
     <img src="./img/logo.png" width=400/>
 </p>
 
----
+
 SwiftWage
+---
 
 "SwiftWage" is a web-based app built on the Ripple CBDC network, designed to offer earned wage access for employees and streamline payment processing for employers. 
 
