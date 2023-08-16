@@ -8,7 +8,7 @@
 SwiftWage
 ---
 
-"SwiftWage" is a web-based app built on the Ripple CBDC network, designed to offer advance earned wage access for employees and streamlined payment processing for employers. 
+SwiftWage is a web-based app built on the Ripple CBDC network, designed to offer advance earned wage access for employees and streamlined payment processing for employers. 
 
 Pitch deck: https://docs.google.com/presentation/d/1mbpaUBToRx24WU4Zq9_m04mAQbrn2tOUK4aqPX0JPAQ/edit?usp=sharing
 
@@ -23,7 +23,7 @@ The inspiration behind SwiftWage lies in the emerging opportunities presented by
 
 ## What it does
 
-SwiftWage is a groundbreaking web-based application that leverages the Ripple CBDC network to offer employees access to a portion of their earned wages before their official payday. Using Ripple's CBDC, SwiftWage ensures seamless, secure, and near-instantaneous transactions, enabling users to receive funds directly into their digital wallets within moments of requesting an advance.
+SwiftWage leverages the Ripple CBDC network to offer employees access to a portion of their earned wages before their official payday. Using Ripple's CBDC, SwiftWage ensures seamless, secure, and near-instantaneous transactions, enabling users to receive funds directly into their digital wallets within moments of requesting an advance.
 
 Through integration with employers' payroll systems, SwiftWage fetches real-time data on work hours and earnings, providing employees with an up-to-date view of their accumulated wages. When an employee requires a wage advance, the app processes the request through smart contracts on the Ripple CBDC network. This not only facilitates quick access to funds but also eliminates the need for costly intermediaries and traditional banking delays.
 
