@@ -37,15 +37,15 @@ SwiftWage aims to bridge the gap between traditional banking services and the un
 
 ### Key Elements:
 
-Ripple's CBDC Innovation: Ripple's CBDC solution offers a transformative approach to digitizing national currencies. By partnering with central banks, Project EarnXRP will facilitate the issuance of digital currencies backed by the stability and legitimacy of national monetary authorities. This ensures the safety and stability of digital assets while providing users with a secure and reliable means of transacting.
+Ripple's CBDC Innovation: Ripple's CBDC solution offers a transformative approach to digitizing national currencies. By partnering with central banks, Project SwiftWage will facilitate the issuance of digital currencies backed by the stability and legitimacy of national monetary authorities. This ensures the safety and stability of digital assets while providing users with a secure and reliable means of transacting.
 
-Fast and Low-Cost Transactions: Ripple's ledger technology, known for its high-speed and low-cost transactions, is a perfect fit for Project EarnXRP's objectives. This efficiency translates into reduced transaction fees and near-instant transfers, which is crucial for empowering underserved communities that often face exorbitant charges and delays in traditional financial systems.
+Fast and Low-Cost Transactions: Ripple's ledger technology, known for its high-speed and low-cost transactions, is a perfect fit for Project SwiftWage's objectives. This efficiency translates into reduced transaction fees and near-instant transfers, which is crucial for empowering underserved communities that often face exorbitant charges and delays in traditional financial systems.
 
-Financial Inclusion: Just like Earnin.com, Project EarnXRP will prioritize financial inclusion by providing a platform that allows users to access their earned funds before their regular paychecks are processed. This feature ensures that users have immediate access to their funds when they need them the most, effectively eliminating the need for predatory lending options and facilitating responsible financial management.
+Financial Inclusion: Just like Earnin.com, Project SwiftWage will prioritize financial inclusion by providing a platform that allows users to access their earned funds before their regular paychecks are processed. This feature ensures that users have immediate access to their funds when they need them the most, effectively eliminating the need for predatory lending options and facilitating responsible financial management.
 
 Decentralized and Secure: Ripple's ledger technology operates on a decentralized network, enhancing security by reducing the vulnerability associated with single points of failure. This approach ensures that users' financial information and transactions remain confidential and tamper-resistant, promoting trust and confidence among participants.
 
-Global Accessibility: Ripple's network is inherently global, enabling Project EarnXRP to transcend borders and bring financial services to regions that have traditionally been underserved by traditional banking systems. This scalability is pivotal in extending the benefits of financial inclusion to a diverse range of populations.
+Global Accessibility: Ripple's network is inherently global, enabling Project SwiftWage to transcend borders and bring financial services to regions that have traditionally been underserved by traditional banking systems. This scalability is pivotal in extending the benefits of financial inclusion to a diverse range of populations.
 
 
 
