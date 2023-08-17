@@ -14,6 +14,8 @@ Pitch deck: https://docs.google.com/presentation/d/1mbpaUBToRx24WU4Zq9_m04mAQbrn
 
 Landing page: https://swiftwage.carrd.co/
 
+One pager/proposal: https://docs.google.com/document/d/1khMDKayQ1TSLCRpMQwLxVicAM0vm_mCGrAiB7I5IIEo/edit
+
 <!-- Video:  -->
 
 
@@ -41,7 +43,7 @@ Ripple's CBDC Innovation: Ripple's CBDC solution offers a transformative approac
 
 Fast and Low-Cost Transactions: Ripple's ledger technology, known for its high-speed and low-cost transactions, is a perfect fit for Project SwiftWage's objectives. This efficiency translates into reduced transaction fees and near-instant transfers, which is crucial for empowering underserved communities that often face exorbitant charges and delays in traditional financial systems.
 
-Financial Inclusion: Just like Earnin.com, Project SwiftWage will prioritize financial inclusion by providing a platform that allows users to access their earned funds before their regular paychecks are processed. This feature ensures that users have immediate access to their funds when they need them the most, effectively eliminating the need for predatory lending options and facilitating responsible financial management.
+Financial Inclusion: Project SwiftWage will prioritize financial inclusion by providing a platform that allows users to access their earned funds before their regular paychecks are processed. This feature ensures that users have immediate access to their funds when they need them the most, effectively eliminating the need for predatory lending options and facilitating responsible financial management.
 
 Decentralized and Secure: Ripple's ledger technology operates on a decentralized network, enhancing security by reducing the vulnerability associated with single points of failure. This approach ensures that users' financial information and transactions remain confidential and tamper-resistant, promoting trust and confidence among participants.
 
