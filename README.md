@@ -1,6 +1,6 @@
 <br/>
 <p align='center'>
-    <img src="./img/logo.png" width=400/>
+    <img src="https://i.ibb.co/RbwfWxt/logo.png" width=400/>
 </p>
 <br/>
 
@@ -16,7 +16,7 @@ Landing page: https://swiftwage.carrd.co/
 
 One pager/proposal: https://docs.google.com/document/d/1khMDKayQ1TSLCRpMQwLxVicAM0vm_mCGrAiB7I5IIEo/edit
 
-<!-- Video:  -->
+Video: https://youtu.be/zmQm2pPou1c
 
 
 ## Inspiration
